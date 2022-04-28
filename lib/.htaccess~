@@ -1,5 +1,0 @@
-<FilesMatch "\.(php|html|htaccess)$">
-Order allow,deny
-Deny from all
- 
-</FilesMatch>
