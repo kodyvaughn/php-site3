@@ -1,4 +1,4 @@
-<img src="lib/images/img1.jpg" alt="Handsome Squidward" style="width:80px;height:80px;float:left;">
+<img src="lib/images/img1.jpg" alt="Handsome Squidward" style="width:100px;height:100px;">
 <h1 style="text-align: center;">PHP Project</h1>
 <ul style="text-align: center;">
 <li class="nav"><a class="navlinks" href="welcome.php">Home</a></li>
